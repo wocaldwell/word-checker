@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+#input-text {
+    width: 80%;
+    text-align: left;
+    height: 150px;
+}
+
+h1 {
+    margin: 2% auto;
+    width: 90%;
+    text-align: justify;
+}
